@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">Calzado</string>
+    <string name="calzado_hombre">Calzado de Hombre</string>
+    <string name="calzado_mujer">Calzado de Mujer</string>
+    <string name="valor">Valor</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="zapatilla">Zapatilla</string>
+    <string name="clasico">Clasico</string>
+    <string name="nike">Nike</string>
+    <string name="adida">Adidas</string>
+    <string name="puma">Puma</string>
+
+
+    <string-array name="Sexo">
+        <item>@string/hombre</item>
+        <item>@string/mujer</item>
+    </string-array>
+
+    <string-array name="Tipo">
+        <item>@string/zapatilla</item>
+        <item>@string/clasico</item>
+    </string-array>
+
+    <string-array name="Marca">
+        <item>@string/nike</item>
+        <item>@string/adida</item>
+        <item>@string/puma</item>
+    </string-array>
+
+
 </resources>
