@@ -10,6 +10,7 @@
     <string name="nike">Nike</string>
     <string name="adida">Adidas</string>
     <string name="puma">Puma</string>
+    <string name="error">Error</string>
 
 
     <string-array name="Sexo">
